@@ -5,6 +5,10 @@
 > A render-props based component for providing a toggleable edit state to
 > another component.
 
+#### Log Component ([codesandbox](https://codesandbox.io/s/zx1w0ylv7l))
+
+> A component for logging a message or props right in the JSX.
+
 #### Sign In Form ([codesandbox](https://codesandbox.io/s/n4j86ypl9p))
 
 > A basic Sign In form component demonstrating how such a basic form may be
