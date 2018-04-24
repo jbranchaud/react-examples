@@ -14,7 +14,6 @@
 > A basic Sign In form component demonstrating how such a basic form may be
 > implemented without any form library dependencies.
 
-#### When Component
-([github](https://github.com/jbranchaud/react-logical/blob/master/lib/components/When.js))
+#### When Component ([github](https://github.com/jbranchaud/react-logical/blob/master/lib/components/When.js))
 
 > A component for conditionally rendering one thing or the other
