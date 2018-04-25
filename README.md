@@ -1,5 +1,9 @@
 # React Examples
 
+#### Dynamic HTML Headers ([codesandbox](https://codesandbox.io/s/3v202wmmy1))
+
+> Dynamically create HTML elements using string concatenation and JSX
+
 #### Editable State Wrapper ([codesandbox](https://codesandbox.io/s/20q18yj5jn))
 
 > A render-props based component for providing a toggleable edit state to
