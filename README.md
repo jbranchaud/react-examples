@@ -9,6 +9,10 @@
 > A render-props based component for providing a toggleable edit state to
 > another component.
 
+### Enzyme + Jest Example ([codesandbox](https://codesandbox.io/s/qk60qy3llq))
+
+> A base example of how to use Enzyme and Jest to test a React component
+
 #### Log Component ([codesandbox](https://codesandbox.io/s/zx1w0ylv7l))
 
 > A component for logging a message or props right in the JSX.
