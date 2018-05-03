@@ -9,6 +9,11 @@
 > A render-props based component for providing a toggleable edit state to
 > another component.
 
+#### Enzyme: Find and Dive ([codesandbox](https://codesandbox.io/s/y236wr1kn1))
+
+> An example of using Enzyme's shallow rendering and `dive()` with nested
+> components.
+
 #### Enzyme + Jest Example ([codesandbox](https://codesandbox.io/s/qk60qy3llq))
 
 > A base example of how to use Enzyme and Jest to test a React component
