@@ -1,5 +1,10 @@
 # React Examples
 
+#### Canceling A Promise ([codesandbox](https://codesandbox.io/s/qq1w4p8276))
+
+> Components often fetch data when they mount, we can cancel async tasks
+> like these as needed with PCancelable
+
 #### Dynamic HTML Headers ([codesandbox](https://codesandbox.io/s/3v202wmmy1))
 
 > Dynamically create HTML elements using string concatenation and JSX
